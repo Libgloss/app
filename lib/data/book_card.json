@@ -1,0 +1,17 @@
+[
+    {
+        "title": "The Little Book of House Plants and Other Greenery",
+        "author": "Emma Sibley",
+        "coverImagePath": "https://m.media-amazon.com/images/I/615SezJq2zL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "La Divina Comedia",
+        "author": "Dante Alighieri",
+        "coverImagePath": "https://m.media-amazon.com/images/I/71WJbXGxPdL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "El principito",
+        "author": "Antoine de Saint-Exupéry",
+        "coverImagePath": "https://m.media-amazon.com/images/I/71AVK5VIAzL._AC_UF1000,1000_QL80_.jpg"
+    }
+]
